@@ -128,3 +128,6 @@ const wordBlanks = "The "+myAdjective+" "+myNoun+" "+myVerb+" "+myAdverb; // Cha
 const myArray = ["Anupam", 5];
 //Nest one Array within Another Array
 const myArray = [["anupam, 1"], ["rastogi", 2]];
+//Access Array Data with Indexes
+const myArray = [50, 60, 70];
+var myData=myArray[0];
