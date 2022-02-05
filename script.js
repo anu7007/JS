@@ -21,3 +21,16 @@ c="I am a";
 a = a + 1;
 b = b + 5;
 c = c + " String!";
+
+// Variable declarations
+var StUdLyCapVaR;
+var properCamelCase;
+var TitleCaseOver;
+var studlyCapVar;
+var titleCaseOver;
+// Variable assignments
+var STUDLYCAPVAR = 10;
+var tITLEcASEoVER = 9000;
+studlyCapVar=10;
+properCamelCase="A String";
+titleCaseOver=9000;
