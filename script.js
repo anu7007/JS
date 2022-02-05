@@ -183,3 +183,9 @@ let myGlobal=10;
 function fun1() {
      oopsGlobal=5;
 }
+//Local Scope and Functions
+function myLocalScope() {
+    console.log('inside myLocalScope', myVar);
+  }
+  myLocalScope();
+  console.log('outside myLocalScope', myVar);
