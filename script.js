@@ -124,3 +124,5 @@ const myAdjective = "big";
 const myVerb = "ran";
 const myAdverb = "quickly";
 const wordBlanks = "The "+myAdjective+" "+myNoun+" "+myVerb+" "+myAdverb; // Change this line
+//Store Multiple Values in one Variable using JavaScript Arrays
+const myArray = ["Anupam", 5];
