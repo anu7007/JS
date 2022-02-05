@@ -48,3 +48,4 @@ const quotient = 66 / 33;
 let myVar = 87;
 myVar++;
 myVar--;
+const myDecimal=9.6;
