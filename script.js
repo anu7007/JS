@@ -84,3 +84,4 @@ c /= 11;
 const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 const myStr1 = '<a href="http://www.example.com" target="_blank">Link</a>';
 const myStr2 = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+const myStr3 = "This is the start. "+"This is the end."; 
