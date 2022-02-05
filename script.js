@@ -152,3 +152,7 @@ var removedFromMyArray=myArray.pop(1);
 //Manipulate Arrays With shift()
 const myArray = [["John", 23], ["dog", 3]];
 var removedFromMyArray = myArray.shift();
+//Manipulate Arrays With unshift()
+const myArray = [["John", 23], ["dog", 3]];
+myArray.shift();
+myArray.unshift(["Paul", 35]);
