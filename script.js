@@ -189,3 +189,12 @@ function myLocalScope() {
   }
   myLocalScope();
   console.log('outside myLocalScope', myVar);
+  //Global vs. Local Scope in Functions
+
+  const outerWear = "T-Shirt";
+
+function myOutfit() {
+     return "sweater";
+  return outerWear;
+}
+myOutfit();
