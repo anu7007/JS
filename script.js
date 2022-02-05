@@ -215,3 +215,13 @@ function addThree() {
 
 addThree();
 addFive();
+//
+// Setup
+//let processed = 2;
+
+function processArg(num) {
+    return (num + 3) / 5;
+  }
+  
+  // Only change code below this line
+  var processed=processArg(7);
