@@ -82,3 +82,4 @@ b /= 4;
 c /= 11;
 //escaping literal quotes in string
 const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+const myStr1 = '<a href="http://www.example.com" target="_blank">Link</a>';
