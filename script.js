@@ -158,3 +158,8 @@ myArray.shift();
 myArray.unshift(["Paul", 35]);
 //shopping list
 const myList = [["chocolate", 10], ["toffes", 20], ["toys",5],["grocery", 35], ["vegatables", 20]];
+//Write Reusable JavaScript with Functions
+function reusableFunction() {
+    console.log("Hi World");
+  }
+  reusableFunction();
