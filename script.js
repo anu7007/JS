@@ -176,3 +176,10 @@ function reusableFunction() {
 timesFive(5);
 timesFive(2);
 timesFive(0);
+
+//Global Scope and Functions
+let myGlobal=10;
+
+function fun1() {
+     oopsGlobal=5;
+}
