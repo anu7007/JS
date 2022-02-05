@@ -50,3 +50,4 @@ myVar++;
 myVar--;
 const myDecimal=9.6;
 const product = 5.0 * 1.0;
+const quotient = 6.0 * 2.0;
