@@ -126,3 +126,5 @@ const myAdverb = "quickly";
 const wordBlanks = "The "+myAdjective+" "+myNoun+" "+myVerb+" "+myAdverb; // Change this line
 //Store Multiple Values in one Variable using JavaScript Arrays
 const myArray = ["Anupam", 5];
+//Nest one Array within Another Array
+const myArray = [["anupam, 1"], ["rastogi", 2]];
