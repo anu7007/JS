@@ -95,3 +95,7 @@ const myStr = "My name is"+myName+"and I am well";
 const someAdjective = "Pro";
 let myStr = "Learning to code is ";
 myStr+=someAdjective;
+//finding length of string
+let lastNameLength = 0;
+const lastName = "Lovelace";
+lastNameLength = lastName.length;
