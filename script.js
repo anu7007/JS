@@ -156,3 +156,5 @@ var removedFromMyArray = myArray.shift();
 const myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 myArray.unshift(["Paul", 35]);
+//shopping list
+const myList = [["chocolate", 10], ["toffes", 20], ["toys",5],["grocery", 35], ["vegatables", 20]];
