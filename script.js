@@ -88,3 +88,6 @@ const myStr3 = "This is the start. "+"This is the end.";
 //concatenation using +=
 let myStr="This is the first sentence. ";
 myStr+="This is the second sentence.";
+//constructing string with variables
+const myName = "Anupam";
+const myStr = "My name is"+myName+"and I am well";
