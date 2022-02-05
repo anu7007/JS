@@ -49,3 +49,4 @@ let myVar = 87;
 myVar++;
 myVar--;
 const myDecimal=9.6;
+const product = 5.0 * 1.0;
