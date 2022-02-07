@@ -624,3 +624,13 @@ var regex = /[JQKA]/;
 }
 
 cc(2); cc(3); cc(7); cc('K'); cc('A');
+//
+const myDog = {
+  // Only change code below this line
+name: "Labra",
+legs: 4,
+tails: 1,
+friends:["x","y","z"]
+
+  // Only change code above this line
+};
